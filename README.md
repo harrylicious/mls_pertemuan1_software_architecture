@@ -14,8 +14,8 @@ Each layer of the layered architecture pattern has a specific role and responsib
 
 1. XAMPP (<https://www.apachefriends.org/download.html>)
 2. Visual Studio Code (<https://code.visualstudio.com/>)
-3. Database .SQL (<https://github.com/yourname/yourproject/fork>)
-4. CodeIgniter (<https://github.com/yourname/yourproject/fork>)
+3. Database .SQL (<https://github.com/harrylicious/mls_pertemuan1_software_architecture/blob/master/database/sekolahku.sql>)
+4. CodeIgniter 3 (<https://codeigniter.com/download>)
 
 
 <!-- Markdown link & img dfn's -->
