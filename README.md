@@ -18,4 +18,4 @@ Each layer of the layered architecture pattern has a specific role and responsib
 4. CodeIgniter 3 (<https://codeigniter.com/download>)
 
 ## References
-Software architecture patter (<https://www.oreilly.com/content/software-architecture-patterns/>)
+Software architecture pattern (<https://www.oreilly.com/content/software-architecture-patterns/>)
