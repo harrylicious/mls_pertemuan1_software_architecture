@@ -2,7 +2,7 @@
 > Understanding Software Architecture Layer
 
 
-Berikut ilustasi dari Software Architecture Layer.
+Here's ilustration of Software Architecture Layer.
 
 ![](software_architecture.png)
 
@@ -17,11 +17,5 @@ Each layer of the layered architecture pattern has a specific role and responsib
 3. Database .SQL (<https://github.com/harrylicious/mls_pertemuan1_software_architecture/blob/master/database/sekolahku.sql>)
 4. CodeIgniter 3 (<https://codeigniter.com/download>)
 
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+## References
+Software architecture patter (<https://www.oreilly.com/content/software-architecture-patterns/>)
